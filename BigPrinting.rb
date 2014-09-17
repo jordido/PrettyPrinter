@@ -24,6 +24,6 @@ class PrettyPrinter
 
 end
 
-PrettyPrinter.new.printing(["My", 3, a_hash, a_date, [["Pied", "Piper"],["oerte", "drz"],"thirs"]])
+PrettyPrinter.new.printing(["My", 3, a_hash, a_date, [["Karo", "Piper"],["oerte", "drz"],"thirs"]])
 
 # PrettyPrinter.new.printing([["My","Yours"],"second"])
